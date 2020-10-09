@@ -1,0 +1,10 @@
+.DS_Store
+.metadata/
+RemoteSystemsTempFiles/*
+
+stm32f4xx_drivers/Debug/*
+stm32f4xx_drivers/Release/*
+stm32f4xx_drivers/RemoteSystemsTempFiles/*
+stm32f4xx_drivers/Startup/*
+stm32f4xx_drivers/STM32F411VETX_FLASH.ld
+stm32f4xx_drivers/STM32F411VETX_RAM.ld
