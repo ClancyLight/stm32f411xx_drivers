@@ -8,3 +8,8 @@ stm32f4xx_drivers/RemoteSystemsTempFiles/*
 stm32f4xx_drivers/Startup/*
 stm32f4xx_drivers/STM32F411VETX_FLASH.ld
 stm32f4xx_drivers/STM32F411VETX_RAM.ld
+
+stm32f4xx_drivers/.cproject
+stm32f4xx_drivers/.project
+stm32f4xx_drivers/.settings/
+stm32f4xx_drivers/stm32f4xx_drivers.launch
