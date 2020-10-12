@@ -2,7 +2,7 @@
  * 008spi_cmd_handling.c
  *
  *  Created on: 30/08/2020
- *      Author: clancytownsend
+ *      Author: ClancyLight
  */
 
 #include "stm32f411xx.h"

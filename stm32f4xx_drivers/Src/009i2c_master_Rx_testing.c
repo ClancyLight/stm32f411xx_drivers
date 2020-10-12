@@ -2,7 +2,7 @@
  * 009i2c_master_Rx_testing.c
  *
  *  Created on: 2/10/2020
- *      Author: clancytownsend
+ *      Author: ClancyLight
  */
 
 #include <stdio.h>

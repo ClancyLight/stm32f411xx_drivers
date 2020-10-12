@@ -2,7 +2,7 @@
  * 009i2c.c
  *
  *  Created on: 14/09/2020
- *      Author: clancytownsend
+ *      Author: ClancyLight
  *
  *      NOTE: Don't forget to exclude from build everything except:
  *      	- syscalls.c

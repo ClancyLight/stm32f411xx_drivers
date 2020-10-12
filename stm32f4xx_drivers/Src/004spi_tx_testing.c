@@ -2,7 +2,7 @@
  * 004spi_tx_testing.c
  *
  *  Created on: Aug 28, 2020
- *      Author: clancytownsend
+ *      Author: ClancyLight
  */
 
 #include "stm32f411xx.h"

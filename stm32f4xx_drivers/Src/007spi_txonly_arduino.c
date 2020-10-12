@@ -2,7 +2,7 @@
  * 007spi_txonly_arduino.c
  *
  *  Created on: Aug 29, 2020
- *      Author: clancytownsend
+ *      Author: ClancyLight
  */
 
 #include "stm32f411xx.h"
